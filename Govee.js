@@ -980,7 +980,7 @@ const GoveeDeviceLibrary = {
 		state: 1,
 		supportRazer: true,
 		supportDreamView: true,
-		ledCount: 11
+		ledCount: 10
 	},
 	H619D: {
 		name: "2*7.5m RGBIC Pro Strip Lights",
