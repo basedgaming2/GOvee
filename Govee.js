@@ -26,7 +26,7 @@ export function SubdeviceController() { return false; }
 
 /** @type {GoveeProtocol} */
 let govee;
-let ledCount = 4;
+let ledCount = 1;
 let ledNames = [];
 let ledPositions = [];
 let subdevices = [];
@@ -980,7 +980,7 @@ const GoveeDeviceLibrary = {
 		state: 1,
 		supportRazer: true,
 		supportDreamView: true,
-		ledCount: 10.5
+		ledCount: 10
 	},
 	H619D: {
 		name: "2*7.5m RGBIC Pro Strip Lights",
